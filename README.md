@@ -1,8 +1,4 @@
 # 🌍 COVID-19 Global Data Tracker
-*A Python data analysis project tracking cases, deaths, and vaccinations worldwide*
-
-![Example Visualization](https://via.placeholder.com/600x400?text=COVID+Visualization)  
-*(Upload a screenshot of your charts and replace this placeholder)*
 
 ## 📌 Objectives
 - Import and clean global COVID-19 data
@@ -40,4 +36,3 @@
 ## 📂 Dataset
 Source: [Our World in Data](https://github.com/owid/covid-19-data)
 
-*(Optional: Add your reflections on challenges/future improvements)*
